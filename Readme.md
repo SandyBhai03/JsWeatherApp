@@ -1,7 +1,9 @@
 # **Weather Forecast Application**
 
-## Website URL:
+## Live Website URL:
 -  https://sandybhai03.github.io/JsWeatherApp/src/index.html
+
+
 ## **Description**
 The Weather Forecast Application is a web app that provides real-time weather information for any city worldwide. Key features include:
 - Current weather display with temperature, wind speed, and humidity.
