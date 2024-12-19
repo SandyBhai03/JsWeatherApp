@@ -1,8 +1,6 @@
 
 # **Weather Forecast Application**
 
-![Weather App Screenshot](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view1.png "Weather App Screenshot")
-![Search Functionality](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view2.png "Search Functionality")
 
 ## Live Website URL:
 -  https://sandybhai03.github.io/JsWeatherApp/src/index.html
@@ -50,9 +48,8 @@ cd Weather-App
 1. Search for a city to get real-time weather updates.
 2. The app will display the current temperature, humidity, wind speed, and an icon representing the current weather.
 
-
-
 ﻿
 
-
+![Weather App Screenshot](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view1.png "Weather App Screenshot")
+![Search Functionality](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view2.png "Search Functionality")
 
