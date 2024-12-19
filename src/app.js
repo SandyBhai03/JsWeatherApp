@@ -331,4 +331,3 @@ function customAnimate() {
   });
 }
 customAnimate();
-
