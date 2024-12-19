@@ -1,4 +1,8 @@
+
 # **Weather Forecast Application**
+
+![Weather App Screenshot](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view1.png "Weather App Screenshot")
+![Search Functionality](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view2.png "Search Functionality")
 
 ## Live Website URL:
 -  https://sandybhai03.github.io/JsWeatherApp/src/index.html
@@ -35,9 +39,6 @@ The Weather Forecast Application is a web app that provides real-time weather in
 ### **1. Clone the Repository**
 Clone the project to your local machine using Git:
 
-```vscode
-git clone https://github.com/SandyBhai03/Internshala-Frontend/tree/main/Mini-Projects/Weather-App
-
 2.   Open the project folder:
 bash
 Copy code
@@ -50,8 +51,7 @@ cd Weather-App
 2. The app will display the current temperature, humidity, wind speed, and an icon representing the current weather.
 
 
-![Weather App Screenshot](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view1.png "Weather App Screenshot")
-![Search Functionality](https://github.com/SandyBhai03/JsWeatherApp/blob/main/public/images/view2.png "Search Functionality")
+
 ﻿
 
 
