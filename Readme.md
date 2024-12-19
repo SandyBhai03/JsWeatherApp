@@ -51,6 +51,8 @@ cd Weather-App
 
 
 ![Weather App Screenshot](public/images/view1.png "Weather App Screenshot")
-![Weather App Screenshot](public/images/view2.png "Search Functionality")
+![Search Functionality](public/images/view2.png "Search Functionality")
+﻿
+git
 
 
